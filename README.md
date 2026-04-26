@@ -35,3 +35,9 @@ In this project, I built and deployed a simple static website using Amazon S3. I
 
 # Bucket Policy
 [Website](Screenshots/bucket-policy.png)
+
+## Improvements
+- Integrated Amazon CloudFront for HTTPS and faster global delivery
+
+## Live Demo
+d181amxzybjkuv.cloudfront.net
