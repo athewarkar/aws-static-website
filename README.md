@@ -40,4 +40,4 @@ In this project, I built and deployed a simple static website using Amazon S3. I
 - Integrated Amazon CloudFront for HTTPS and faster global delivery
 
 ## Live Demo
-[Live Website]d181amxzybjkuv.cloudfront.net
+[Live Website](d181amxzybjkuv.cloudfront.net)
